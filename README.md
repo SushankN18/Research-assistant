@@ -52,14 +52,6 @@ ANTHROPIC_API_KEY=your-key-here
 python main.py
 ```
 
-### Benchmark (collect metrics for resume)
-```bash
-# Run all 5 benchmark queries
-python benchmark.py
-
-# Run a subset
-python benchmark.py 3
-```
 
 ## Output Schema
 
